@@ -1,0 +1,1 @@
+﻿var tree = $('<div>').insertAfter($('h1').first()).toc().toc("collapse");
